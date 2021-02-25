@@ -1,0 +1,158 @@
+{
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 4,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 199,
+  "bbox_top": 0,
+  "bbox_bottom": 199,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 200,
+  "height": 200,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"c3dd2da9-fea4-432d-8415-153920809b7b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c3dd2da9-fea4-432d-8415-153920809b7b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"c3dd2da9-fea4-432d-8415-153920809b7b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ada2fd74-9974-48b5-863e-31a58061ec87","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ada2fd74-9974-48b5-863e-31a58061ec87","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"ada2fd74-9974-48b5-863e-31a58061ec87","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02befe70-2888-4061-b51a-74440df936a4","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02befe70-2888-4061-b51a-74440df936a4","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"02befe70-2888-4061-b51a-74440df936a4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a5a106a1-c708-44da-b037-267df1c36cff","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a5a106a1-c708-44da-b037-267df1c36cff","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"a5a106a1-c708-44da-b037-267df1c36cff","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cefa67d7-8ff9-45e8-b701-8a3f6daf3a24","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cefa67d7-8ff9-45e8-b701-8a3f6daf3a24","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"cefa67d7-8ff9-45e8-b701-8a3f6daf3a24","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"13344a04-ab12-4ee4-8fe3-b522d9fce5b0","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"13344a04-ab12-4ee4-8fe3-b522d9fce5b0","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"13344a04-ab12-4ee4-8fe3-b522d9fce5b0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f4956df8-cd78-453b-959b-2ac4509ce5ea","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f4956df8-cd78-453b-959b-2ac4509ce5ea","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"f4956df8-cd78-453b-959b-2ac4509ce5ea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"325e258a-d582-4f8e-8040-ebd73058c44b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"325e258a-d582-4f8e-8040-ebd73058c44b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"325e258a-d582-4f8e-8040-ebd73058c44b","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"5609511e-5ee8-4fa1-b088-86148424cf8e","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"5609511e-5ee8-4fa1-b088-86148424cf8e","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"5609511e-5ee8-4fa1-b088-86148424cf8e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c6620ba4-3fcb-4904-86ba-9624c99fcdcf","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c6620ba4-3fcb-4904-86ba-9624c99fcdcf","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"c6620ba4-3fcb-4904-86ba-9624c99fcdcf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e91bea72-c657-4734-975a-09b5d1652457","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e91bea72-c657-4734-975a-09b5d1652457","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"e91bea72-c657-4734-975a-09b5d1652457","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cb25a608-d83d-4f56-b6e6-7c57fe823f0f","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cb25a608-d83d-4f56-b6e6-7c57fe823f0f","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"cb25a608-d83d-4f56-b6e6-7c57fe823f0f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e2da32c1-d910-4b35-b20f-18130bb2de1f","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e2da32c1-d910-4b35-b20f-18130bb2de1f","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"e2da32c1-d910-4b35-b20f-18130bb2de1f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c4aad166-e0dc-4040-af4d-35c1959d8768","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c4aad166-e0dc-4040-af4d-35c1959d8768","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"c4aad166-e0dc-4040-af4d-35c1959d8768","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"2ce4e8db-bfdd-4deb-9e89-9a81fbebb5e0","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"2ce4e8db-bfdd-4deb-9e89-9a81fbebb5e0","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"2ce4e8db-bfdd-4deb-9e89-9a81fbebb5e0","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"1ea6b2e2-6140-4472-9089-7c3194f74b5a","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"1ea6b2e2-6140-4472-9089-7c3194f74b5a","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"1ea6b2e2-6140-4472-9089-7c3194f74b5a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"9d783041-7e8d-4a9b-81b4-56ea4229940c","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"9d783041-7e8d-4a9b-81b4-56ea4229940c","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"9d783041-7e8d-4a9b-81b4-56ea4229940c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dc1dedc3-45b6-4b59-b6ef-aedef45c3537","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dc1dedc3-45b6-4b59-b6ef-aedef45c3537","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"dc1dedc3-45b6-4b59-b6ef-aedef45c3537","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"229a88b5-5427-48c9-bf3a-6f291dc71e0e","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"229a88b5-5427-48c9-bf3a-6f291dc71e0e","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"229a88b5-5427-48c9-bf3a-6f291dc71e0e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"dd113fec-e63c-465a-a86f-0b9c3e35fff9","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"dd113fec-e63c-465a-a86f-0b9c3e35fff9","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"dd113fec-e63c-465a-a86f-0b9c3e35fff9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3102ca42-6745-43c8-8e4d-6bf62fef3c7b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":null,"resourceVersion":"1.0","name":"imported","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3102ca42-6745-43c8-8e4d-6bf62fef3c7b","path":"sprites/spr_animals/spr_animals.yy",},"LayerId":{"name":"bb436d50-c007-4077-81c3-75df1ed7017f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","name":"3102ca42-6745-43c8-8e4d-6bf62fef3c7b","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 0.0,
+    "playbackSpeedType": 0,
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 21.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"532c0b8f-8fbe-488c-b212-5538699def04","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c3dd2da9-fea4-432d-8415-153920809b7b","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4a4aaa8b-1907-424d-8c26-11d8079f4b31","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ada2fd74-9974-48b5-863e-31a58061ec87","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c2fcd108-c4b0-4ea8-bb62-cc20f5ed12e3","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02befe70-2888-4061-b51a-74440df936a4","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"43f248b3-bae3-41c6-9b9b-15bee2fcb8ea","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a5a106a1-c708-44da-b037-267df1c36cff","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"51dd27ef-5140-42cf-a17b-050d3c95814e","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cefa67d7-8ff9-45e8-b701-8a3f6daf3a24","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ec61e63b-4195-4746-8699-c4f54e45454f","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"13344a04-ab12-4ee4-8fe3-b522d9fce5b0","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6cb0be28-4e1a-4461-bcc0-cf4271471508","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f4956df8-cd78-453b-959b-2ac4509ce5ea","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"bc5da521-4dc5-4daa-8e12-5c96a7a97420","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"325e258a-d582-4f8e-8040-ebd73058c44b","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a68ac178-8531-4cf1-9309-98a7320aa1c7","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5609511e-5ee8-4fa1-b088-86148424cf8e","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"19a12997-854d-4142-b13f-3378ad2c0634","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c6620ba4-3fcb-4904-86ba-9624c99fcdcf","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4a4f3e7a-05c7-45bc-981f-43529fee9813","Key":10.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e91bea72-c657-4734-975a-09b5d1652457","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"f0142ea4-b09c-4fe2-bfa6-47aa46c44b26","Key":11.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cb25a608-d83d-4f56-b6e6-7c57fe823f0f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1d3f0d7a-5a11-4244-ad78-b7c48b727999","Key":12.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e2da32c1-d910-4b35-b20f-18130bb2de1f","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"6cd5d132-f808-4e86-80b8-132de4a5b479","Key":13.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c4aad166-e0dc-4040-af4d-35c1959d8768","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"e6dcd7a6-fb10-40e3-8b0e-4e2efa8c49b5","Key":14.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"2ce4e8db-bfdd-4deb-9e89-9a81fbebb5e0","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c9010957-a499-44f2-82e3-8b6364fa8e6b","Key":15.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"1ea6b2e2-6140-4472-9089-7c3194f74b5a","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"9371fa5e-9cdb-45b5-a9cc-b66b2223d9ec","Key":16.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"9d783041-7e8d-4a9b-81b4-56ea4229940c","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5afcdc03-60c6-4bca-895a-5ef32163485e","Key":17.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dc1dedc3-45b6-4b59-b6ef-aedef45c3537","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"176d62f1-5e67-4056-ab43-89c6d33c10e4","Key":18.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"229a88b5-5427-48c9-bf3a-6f291dc71e0e","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"c1c00eae-87b2-4e37-a71d-e46d4a909967","Key":19.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"dd113fec-e63c-465a-a86f-0b9c3e35fff9","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"2419c624-9af3-4610-82e9-2276e5762f30","Key":20.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3102ca42-6745-43c8-8e4d-6bf62fef3c7b","path":"sprites/spr_animals/spr_animals.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 100,
+    "yorigin": 100,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_animals","path":"sprites/spr_animals/spr_animals.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bb436d50-c007-4077-81c3-75df1ed7017f","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "Categories",
+    "path": "folders/Sprites/Categories.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_animals",
+  "tags": [],
+  "resourceType": "GMSprite",
+}

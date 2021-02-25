@@ -1,0 +1,1 @@
+x = lerp(x, intendedX, 0.2);
