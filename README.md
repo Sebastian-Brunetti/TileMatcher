@@ -1,2 +1,2 @@
 # TileMatcher
-"Tile Matcher" is a sample project developed in GMS2.
+"Tile Matcher" is a sample project developed in Game Maker Studio 2.
